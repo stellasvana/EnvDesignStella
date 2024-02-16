@@ -1166,3 +1166,146 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.16-17.12.05:217][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
 [2024.02.16-17.12.05:220][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
 [2024.02.16-17.12.05:233][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms
+[2024.02.16-17.12.23:340][865]Cmd: DELETE
+[2024.02.16-17.12.23:340][865]Cmd: ACTOR DELETE
+[2024.02.16-17.12.23:341][865]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.16-17.12.23:345][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.02.16-17.12.23:346][865]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2024.02.16-17.12.24:378][889]Cmd: TRANSACTION UNDO
+[2024.02.16-17.12.24:378][889]LogEditorTransaction: Undo Delete Elements
+[2024.02.16-17.12.24:566][892]Cmd: TRANSACTION UNDO
+[2024.02.16-17.12.24:566][892]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.16-17.12.25:030][911]Cmd: TRANSACTION UNDO
+[2024.02.16-17.12.25:030][911]LogEditorTransaction: Undo Delete Elements
+[2024.02.16-17.12.28:511][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.16-17.12.28:585][961]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.004560 seconds
+[2024.02.16-17.12.28:593][961]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2024.02.16-17.12.28:593][961]LogSavePackage: Moving '../../../../../../Users/stesv/Documents/github/EnvDesignStella/Saved/NG2R9BPZVA7ZDN0Z4VSTG6E75767E0451075C66DE02280EAEDE196.tmp' to '../../../../../../Users/stesv/Documents/github/EnvDesignStella/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2024.02.16-17.12.28:614][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 178 ms)
+[2024.02.16-17.12.28:615][961]AssetCheck: New page: Asset Save: StaticMeshActor_1
+[2024.02.16-17.12.28:615][961]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2024.02.16-17.12.28:617][961]LogWorldPartition: Warning: Releasing reference on saved actor '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1' from the DirtyActors without a loader reference.
+[2024.02.16-17.12.31:091][105]Cmd: TRANSACTION UNDO
+[2024.02.16-17.12.31:091][105]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.16-17.12.47:618][816]Cmd: TRANSACTION UNDO
+[2024.02.16-17.12.47:619][816]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.16-17.12.47:863][818]Cmd: TRANSACTION UNDO
+[2024.02.16-17.12.47:863][818]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.16-17.12.47:962][819]Cmd: TRANSACTION UNDO
+[2024.02.16-17.12.47:962][819]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.16-17.13.06:194][881]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.16-17.13.06:200][881]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.16-17.13.09:060][ 49]Cmd: TRANSACTION UNDO
+[2024.02.16-17.13.09:060][ 49]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.16-17.13.22:081][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.16-17.13.22:445][815]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Fire01...
+[2024.02.16-17.13.22:445][815]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Fire_Sparks01...
+[2024.02.16-17.13.22:445][815]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Smoke01...
+[2024.02.16-17.13.22:445][815]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Steam01...
+[2024.02.16-17.13.22:445][815]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Starter_Wind06...
+[2024.02.16-17.13.22:445][815]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Starter_Birds01...
+[2024.02.16-17.13.22:445][815]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Starter_Music01...
+[2024.02.16-17.13.22:452][815]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.16-17.13.22:475][815]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2024.02.16-17.13.22:475][815]Cmd: MAP LOAD FILE="../../../../../../Users/stesv/Documents/github/EnvDesignStella/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.16-17.13.22:475][815]LightingResults: New page: Lighting Build
+[2024.02.16-17.13.22:475][815]LoadErrors: New page: Loading map: StarterMap.umap
+[2024.02.16-17.13.22:487][815]LogAudio: Display: Chunk sizes for SoundWave /Game/StarterContent/Audio/Fire01.Fire01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.02.16-17.13.22:488][815]LogAudio: Display: Chunk sizes for SoundWave /Game/StarterContent/Audio/Smoke01.Smoke01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.02.16-17.13.22:489][815]LogAudio: Display: Chunk sizes for SoundWave /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.02.16-17.13.22:490][815]LogAudio: Display: Chunk sizes for SoundWave /Game/StarterContent/Audio/Steam01.Steam01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.02.16-17.13.22:525][815]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-17.13.22:525][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-17.13.22:529][815]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.16-17.13.22:529][815]MapCheck: New page: Map Check
+[2024.02.16-17.13.22:529][815]LightingResults: New page: Lighting Build
+[2024.02.16-17.13.22:532][815]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.16-17.13.22:536][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.16-17.13.22:540][815]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound needed to have new flag set bUsedWithNanite !
+[2024.02.16-17.13.22:591][815]LogAudio: Display: Chunk sizes for SoundWave /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.02.16-17.13.22:599][815]LogAudio: Display: Chunk sizes for SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06: Chunk0=28 bytes, Chunk1-N=256k
+[2024.02.16-17.13.22:603][815]MapCheck: Warning: M_TableRound Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2024.02.16-17.13.22:657][815]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair needed to have new flag set bUsedWithNanite !
+[2024.02.16-17.13.22:679][815]MapCheck: Warning: M_Chair Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2024.02.16-17.13.22:681][815]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-17.13.22:682][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-17.13.22:692][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.02.16-17.13.22:699][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.02.16-17.13.22:735][815]LogAudio: Display: Audio Device (ID: 1) registered with world 'StarterMap'.
+[2024.02.16-17.13.22:737][815]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.16-17.13.22:737][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.16-17.13.22:737][815]LogAIModule: Creating AISystem for world StarterMap
+[2024.02.16-17.13.22:784][815]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.16-17.13.22:793][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.16-17.13.22:797][815]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.16-17.13.22:798][815]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0,38ms to complete.
+[2024.02.16-17.13.22:813][815]LogAudio: Display: Chunk sizes for SoundWave /Game/StarterContent/Audio/Starter_Music01.Starter_Music01: Chunk0=28 bytes, Chunk1-N=256k
+[2024.02.16-17.13.23:259][816]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.02.16-17.13.23:358][816]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2024.02.16-17.13.24:818][835]LogSlate: Window 'Message Log' being destroyed
+[2024.02.16-17.13.24:841][835]LogSlate: Window 'Message Log' being destroyed
+[2024.02.16-17.13.29:784][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.16-17.13.29:862][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.16-17.13.29:864][ 27]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.02.16-17.13.29:864][ 27]Cmd: MAP LOAD FILE="../../../../../../Users/stesv/Documents/github/EnvDesignStella/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.16-17.13.29:864][ 27]LightingResults: New page: Lighting Build
+[2024.02.16-17.13.29:864][ 27]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2024.02.16-17.13.29:877][ 27]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-17.13.29:877][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-17.13.29:877][ 27]MapCheck: New page: Map Check
+[2024.02.16-17.13.29:877][ 27]LightingResults: New page: Lighting Build
+[2024.02.16-17.13.29:882][ 27]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.16-17.13.29:886][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.16-17.13.29:888][ 27]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-17.13.29:888][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-17.13.29:892][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.02.16-17.13.29:895][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.02.16-17.13.29:902][ 27]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2024.02.16-17.13.29:903][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.16-17.13.29:903][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.16-17.13.29:903][ 27]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.02.16-17.13.29:912][ 27]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.16-17.13.29:917][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.02.16-17.13.29:919][ 27]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.16-17.13.29:919][ 27]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,104ms to complete.
+[2024.02.16-17.13.34:517][276]LogDerivedDataCache: C:/Users/stesv/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.069 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 781 files in 1297 folders with total size 14 MiB.
+[2024.02.16-17.13.35:157][313]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData
+[2024.02.16-17.13.37:012][417]LogSlate: Window 'StarterMap_BuiltData' being destroyed
+[2024.02.16-17.13.37:020][417]LogSlate: Window 'StarterMap_BuiltData' being destroyed
+[2024.02.16-17.13.43:840][819]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.16-17.13.43:918][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.16-17.13.53:343][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.02.16-17.13.53:404][382]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.16-17.13.53:404][382]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.02.16-17.13.53:404][382]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.16-17.13.53:404][382]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.16-17.13.53:422][382]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.16-17.13.53:422][382]LogWorldPartition: Display: WorldPartition initialize took 18 ms (total: 236 ms)
+[2024.02.16-17.13.53:424][382]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.02.16-17.13.53:424][382]Cmd: MAP LOAD FILE="../../../../../../Users/stesv/Documents/github/EnvDesignStella/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.16-17.13.53:424][382]LightingResults: New page: Lighting Build
+[2024.02.16-17.13.53:424][382]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2024.02.16-17.13.53:433][382]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-17.13.53:433][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-17.13.53:433][382]MapCheck: New page: Map Check
+[2024.02.16-17.13.53:433][382]LightingResults: New page: Lighting Build
+[2024.02.16-17.13.53:436][382]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.16-17.13.53:438][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.02.16-17.13.53:439][382]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-17.13.53:439][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-17.13.53:439][382]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.16-17.13.53:444][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.02.16-17.13.53:447][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.02.16-17.13.53:453][382]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.02.16-17.13.53:453][382]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.16-17.13.53:453][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.16-17.13.53:453][382]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.02.16-17.13.53:454][382]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.02.16-17.13.53:454][382]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.16-17.13.53:454][382]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.16-17.13.53:471][382]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.02.16-17.13.53:471][382]LogWorldPartition: Display: WorldPartition initialize took 17 ms (total: 253 ms)
+[2024.02.16-17.13.53:484][382]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.16-17.13.53:489][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.02.16-17.13.53:491][382]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.16-17.13.53:491][382]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,227ms to complete.
