@@ -1152,3 +1152,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 
 [2024.02.16-17.11.41:811][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.025654 secs
 [2024.02.16-17.11.41:817][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.02.16-17.12.00:305][483]Cmd: POLY SELECT ALL
+[2024.02.16-17.12.00:307][483]Cmd: POLY SELECT MEMORY UNION
+[2024.02.16-17.12.03:681][638]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.16-17.12.03:759][639]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.16-17.12.04:731][694]Cmd: DELETE
+[2024.02.16-17.12.04:731][694]Cmd: ACTOR DELETE
+[2024.02.16-17.12.04:733][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.16-17.12.04:737][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.16-17.12.04:737][694]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2024.02.16-17.12.05:159][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.16-17.12.05:214][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.02.16-17.12.05:217][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.02.16-17.12.05:220][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.02.16-17.12.05:233][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms
